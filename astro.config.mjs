@@ -5,7 +5,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://mujibkhan915.github.io',
-  base: 'portfolio',
+  site: 'https://mujibkhan.com',
   integrations: [mdx(), sitemap(), tailwind()]
 });
