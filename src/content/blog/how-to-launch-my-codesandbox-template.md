@@ -1,0 +1,21 @@
+---
+title: "How to launch my codesandbox template"
+description: "Learn how to view the basic codesandbox template for learning HTML that I have setup."
+pubDate: "Sep 8 2024"
+# https://pixabay.com/
+heroImage: "/laptop-with-code.jpg"
+tags: ["html"]
+---
+
+- Navigate to [codesandbox.io](https://codesandbox.io/) in a web browser.
+- Create an account with one of the listed options.
+- Click [here](https://codesandbox.io/p/sandbox/ssvv76?layout=%257B%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522rootPanelGroup%2522%253A%257B%2522direction%2522%253A%2522horizontal%2522%252C%2522contentType%2522%253A%2522UNKNOWN%2522%252C%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522id%2522%253A%2522ROOT_LAYOUT%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522UNKNOWN%2522%252C%2522direction%2522%253A%2522vertical%2522%252C%2522id%2522%253A%2522cm0u4y0gj0006356ixvxa6ido%2522%252C%2522sizes%2522%253A%255B100%252C0%255D%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522EDITOR%2522%252C%2522direction%2522%253A%2522horizontal%2522%252C%2522id%2522%253A%2522EDITOR%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522EDITOR%2522%252C%2522id%2522%253A%2522cm0u4y0gj0002356item0aak4%2522%257D%255D%257D%252C%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522SHELLS%2522%252C%2522direction%2522%253A%2522horizontal%2522%252C%2522id%2522%253A%2522SHELLS%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522SHELLS%2522%252C%2522id%2522%253A%2522cm0u4y0gj0003356igofuz3jv%2522%257D%255D%257D%255D%257D%252C%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522DEVTOOLS%2522%252C%2522direction%2522%253A%2522vertical%2522%252C%2522id%2522%253A%2522DEVTOOLS%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522DEVTOOLS%2522%252C%2522id%2522%253A%2522cm0u4y0gj0005356ioyw7sw7u%2522%257D%255D%257D%255D%252C%2522sizes%2522%253A%255B50%252C50%255D%257D%252C%2522tabbedPanels%2522%253A%257B%2522cm0u4y0gj0002356item0aak4%2522%253A%257B%2522tabs%2522%253A%255B%257B%2522id%2522%253A%2522cm0u4y0gj0001356ir0mhjbot%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522type%2522%253A%2522FILE%2522%252C%2522filepath%2522%253A%2522%252Findex.html%2522%257D%255D%252C%2522id%2522%253A%2522cm0u4y0gj0002356item0aak4%2522%252C%2522activeTabId%2522%253A%2522cm0u4y0gj0001356ir0mhjbot%2522%257D%252C%2522cm0u4y0gj0005356ioyw7sw7u%2522%253A%257B%2522id%2522%253A%2522cm0u4y0gj0005356ioyw7sw7u%2522%252C%2522activeTabId%2522%253A%2522cm0u4ylfj0017356iqddtdwzq%2522%252C%2522tabs%2522%253A%255B%257B%2522id%2522%253A%2522cm0u4y0gj0004356igcwpiup5%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522type%2522%253A%2522UNASSIGNED_PORT%2522%252C%2522port%2522%253A0%257D%252C%257B%2522type%2522%253A%2522UNASSIGNED_PORT%2522%252C%2522port%2522%253A0%252C%2522id%2522%253A%2522cm0u4ylfj0017356iqddtdwzq%2522%252C%2522mode%2522%253A%2522permanent%2522%257D%255D%257D%252C%2522cm0u4y0gj0003356igofuz3jv%2522%253A%257B%2522tabs%2522%253A%255B%255D%252C%2522id%2522%253A%2522cm0u4y0gj0003356igofuz3jv%2522%257D%257D%252C%2522showDevtools%2522%253Atrue%252C%2522showShells%2522%253Afalse%252C%2522showSidebar%2522%253Atrue%252C%2522sidebarPanelSize%2522%253A15%257D) to view my template.
+
+You may also view my codesandbox template below:
+
+<iframe src="https://codesandbox.io/embed/ssvv76?view=editor+%2B+preview&module=%2Findex.html"
+     style="width:100%; height: 500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="Basic-HTML-Demo"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
