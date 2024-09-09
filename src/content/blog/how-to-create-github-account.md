@@ -2,7 +2,6 @@
 title: "How To Create a GitHub Account"
 description: "Learn how to create a GitHub account."
 pubDate: "Sep 8 2024"
-# https://pixabay.com/
 heroImage: "/github-logo.png"
 tags: ["html"]
 ---
@@ -22,7 +21,7 @@ tags: ["html"]
 
 ![Enter UserName](/github-signup-screenshot-username.png)
 
-1. Enter User Name.
+1. Enter a username.
 2. Click the **Continue** button.
 
 ![Chose your preference](/github-signup-screenshot-preference.png)
